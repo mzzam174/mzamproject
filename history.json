@@ -1,0 +1,16 @@
+[
+    {
+        "date": "2026-05-03 14:25:10",
+        "amount": 100.0,
+        "from_currency": "USD",
+        "to_currency": "EUR",
+        "result": "92.3400"
+    },
+    {
+        "date": "2026-05-03 14:27:35",
+        "amount": 50.0,
+        "from_currency": "UAH",
+        "to_currency": "USD",
+        "result": "1.2100"
+    }
+]
